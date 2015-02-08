@@ -11,3 +11,4 @@ move your hand to play notes
 
 ### notes
 * I need to get some better ideas that don't involve music-related stuff
+* you can use up to 2 hands 
