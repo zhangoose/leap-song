@@ -1,0 +1,33 @@
+.box{
+	height: 150px;
+	width: 150px;
+	background-color: #6699FF;
+	position: absolute;
+}
+
+#whole{
+	height: 400px;
+	width: 400px;
+	background-color: #E0EBFF;
+	position: relative;
+	left: 400px;
+	top: 100px;
+}
+
+#one{
+
+}
+#two{
+	top: 250px;
+	left: 250px;
+	
+}
+
+#three{
+	left: 250px;
+}
+
+#four{
+	top:250px;
+}
+
